@@ -1,0 +1,4 @@
+infra/secrets.tfvars
+infra/*.auto.tfvars
+.ssh/
+infra/.terraform/
